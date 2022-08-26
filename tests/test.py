@@ -1,6 +1,6 @@
 import sys
 sys.path.append("./src")
-from src import subtraction
+from src.subtraction import subtraction
 import pytest
 
 
@@ -12,4 +12,4 @@ def test_answer():
     assert inc(3) == 4
 
 def test_answer_subtraction():
-    assert subtraction.subtraction(5, 3) == 2
+    assert subtraction(5, 3) == 2
