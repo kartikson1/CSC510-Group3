@@ -5,7 +5,7 @@ setup(
     version='0.1',
     description='Homework-Github repository',
     author='Nandini Mundra',
-    author_email='nmundra#ncsu.edu',
+    author_email='nmundra@ncsu.edu',
     packages=['src'],
         long_description="""\
             Creating github repository files.
