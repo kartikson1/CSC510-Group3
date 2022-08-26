@@ -29,7 +29,7 @@ To contribute, please use the following procedure to submit a pull request:
 2. Update the README.md with the appropriate interface changes, such as a change in environment variables or a version number update. Also, update the readme with navigation changes such as file location changes and dependency changes. 
 3. Document any changes/additions you make to packages or libraries that must be installed.
 4. Ensure that all of the test cases are passed before merging the pull request.
-5.Please take approval of all the developers before merging the pull request.
+5. Please take approval of all the developers before merging the pull request.
 <br></br>
 ### Where to Contribute?
 * Initiate a discussion with the contributors.
