@@ -1,5 +1,8 @@
-import pytest
+import sys
+sys.path.append("./src")
 from src import subtraction
+import pytest
+
 
 def inc(x):
     return x + 1
