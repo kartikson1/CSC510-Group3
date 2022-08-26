@@ -1,5 +1,3 @@
-import sys
-sys.path.append("./src")
 from src.subtraction import subtraction
 import pytest
 
