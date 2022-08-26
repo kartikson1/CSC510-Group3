@@ -6,7 +6,7 @@ setup(
     description='Homework-Github repository',
     author='Nandini Mundra',
     author_email='nmundra@ncsu.edu',
-    packages=['src'],
+    packages=['src', 'tests'],
         long_description="""\
             Creating github repository files.
             .gitignore
