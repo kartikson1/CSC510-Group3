@@ -1,5 +1,5 @@
 import pytest
-import src
+from src import subtraction
 
 def inc(x):
     return x + 1
